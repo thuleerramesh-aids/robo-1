@@ -1,8 +1,8 @@
 # EXPERIMENT--01-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PIR-SENSOR
 
 
-## Name:R.Ashlin Sweety
-## Reg no:212225040031
+## Name:Thuleer R
+## Reg no:212225230285
 
 ## AIM:  To interface a digital input sensor (PIR Sensor )with arduino .
 ## COMPONENTS REQUIRED:
